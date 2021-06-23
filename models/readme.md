@@ -7,6 +7,7 @@
 
 ### Tensorflow TTS Models
 - [Fastspeech2 Tensorflow Model](https://drive.google.com/drive/folders/1a0QmkRHYAQ_Ai0PY4xHwpT6Pl2hWz5OP?usp=sharing)
+- [Tacotron2 Tensorflow Model](https://drive.google.com/drive/folders/1p3eDReg803cL0Gy3BBboofRq6z62eOAX?usp=sharing)
 
 ### MB-MelGAN Vocoder Model
 - [MB-MelGAN Tensorflow Model](https://drive.google.com/drive/folders/1S0nDBY7HDK5zVfblvtKrrA2Nit6Xoyyc?usp=sharing)
