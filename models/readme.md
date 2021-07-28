@@ -1,3 +1,6 @@
+### This repo works with Text-To-Speech Models which splits into two sub-modules.i.e. Spectrogram Generator and Vocoder Models.
+### End-to-End TTS is the future work.
+
 
 ### TFLite TTS Models
 - [Fastspeech2 Dynamic Range Optimized TFLite Model](https://drive.google.com/file/d/1pq_GOd5cjofPkqwYoOJDG4iRLCgjgNhG/view?usp=sharing)
