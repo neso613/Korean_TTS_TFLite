@@ -1,5 +1,4 @@
-### This repo works with Text-To-Speech Models which splits into two sub-modules.i.e. Spectrogram Generator and Vocoder Models.
-### End-to-End TTS is the future work.
+#### This repo works with Text-To-Speech Models which splits into two sub-modules.i.e. Spectrogram Generator and Vocoder Models.End-to-End TTS is the future work.
 
 
 ### TFLite TTS Models
