@@ -1,5 +1,5 @@
 # Korean_TTS_TFLite
-This repository is a collection of Korean TTS Models in TFLite and Tensorflow
+This repository is a collection of TTS Models for Korean Language in TFLite and Tensorflow
 
 ## Installation
 - Python 3.6+
